@@ -17,7 +17,7 @@ Não baixe só o arquivo .exe
 Clicando direto nele, o GitHub baixa apenas aquele arquivo — e o jogo não abre. Ele precisa do data.win, que é onde estão os mapas, os sprites e os sons. Baixe o ZIP inteiro.
 
 2. Descompactar
-Clique com o botão direito no ZIP baixado.
+No explorador de arquivos, clique com o botão direito no ZIP baixado.
 Escolha Extrair tudo e confirme.
 Abra a pasta extraída e entre em MC v0.32.
 
