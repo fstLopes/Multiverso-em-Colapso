@@ -41,7 +41,7 @@ Se aparecer um aviso azul do Windows, é normal — ele aparece para qualquer pr
 Se o antivírus reclamar, também acontece. Jogos feitos em GameMaker são marcados por engano com frequência, porque compartilham a mesma estrutura de arquivo. Baixando pelo link oficial acima, pode liberar.
 
 4. Começando a jogar
-No menu, clique em JOGAR e digite seu nome (mínimo de 3 letras).
+No menu, clique em JOGAR e digite seu nome (mínimo de 3 letras).<br>
 Escolha a dimensão e o modo:
 História — vença as 20 ondas. A nota vai de 1 a 3 estrelas, conforme as vidas que sobrarem.
 Infinito — as ondas não acabam. Destrava ao concluir a História daquela dimensão.
