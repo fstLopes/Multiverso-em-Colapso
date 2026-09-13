@@ -8,25 +8,24 @@ Como baixar e jogar
 Multiverso em Colapso é um Tower Defense para Windows. Não precisa instalar nada: é só baixar, descompactar e abrir.
 
 1. Baixar
-Acesse o repositório: https://github.com/fstLopes/Multiverso-em-Colapso
-Clique no botão verde Code, acima da lista de arquivos.
-Escolha Download ZIP.
-O arquivo Multiverso-em-Colapso-main.zip vai para a sua pasta de Downloads.
-Não baixe só o arquivo .exe
+Acesse o repositório: https://github.com/fstLopes/Multiverso-em-Colapso<br>
+Clique no botão verde Code, acima da lista de arquivos.<br>
+Escolha Download ZIP.<br>
+O arquivo Multiverso-em-Colapso-main.zip vai para a sua pasta de Downloads.<br>
+Não baixe só o arquivo .exe<br>
 
 Clicando direto nele, o GitHub baixa apenas aquele arquivo — e o jogo não abre. Ele precisa do data.win, que é onde estão os mapas, os sprites e os sons. Baixe o ZIP inteiro.
 
 2. Descompactar
-No explorador de arquivos, clique com o botão direito no ZIP baixado.
-Escolha Extrair tudo e confirme.
-Abra a pasta extraída e entre em MC v0.32.
+No explorador de arquivos, clique com o botão direito no ZIP baixado.<br>
+Escolha Extrair tudo e confirme.<br>
+Abra a pasta extraída e entre em MC v0.32.<br>
 
 Você deve ver três arquivos:
 
-Arquivo	O que é
-Multiverso em Colapso.exe	O jogo
-data.win	Todo o conteúdo: mapas, sprites e sons
-options.ini	Configurações internas
+Multiverso em Colapso.exe	O jogo<br>
+data.win	Todo o conteúdo: mapas, sprites e sons<br>
+options.ini	Configurações internas<br>
 
 Os três precisam ficar juntos na mesma pasta. Mover só o .exe para a área de trabalho não funciona.
 
@@ -42,13 +41,13 @@ Se o antivírus reclamar, também acontece. Jogos feitos em GameMaker são marca
 
 4. Começando a jogar
 No menu, clique em JOGAR e digite seu nome (mínimo de 3 letras).<br>
-Escolha a dimensão e o modo:
-História — vença as 20 ondas. A nota vai de 1 a 3 estrelas, conforme as vidas que sobrarem.
-Infinito — as ondas não acabam. Destrava ao concluir a História daquela dimensão.
-Clique em JOGAR de novo para confirmar.
-Durante a partida
-Clique em CONSTRUIR, à direita, para abrir a loja de heróis.
-Clique num espaço livre ao lado do caminho para posicionar.
-Clique numa torre já posicionada para ver alcance, status e melhorias. Atalhos: T melhora, V vende.
-A primeira onda só começa quando você clicar em INICIAR. Use esse tempo para montar a defesa.
+Escolha a dimensão e o modo:<br>
+História — vença as 20 ondas. A nota vai de 1 a 3 estrelas, conforme as vidas que sobrarem.<br>
+Infinito — as ondas não acabam. Destrava ao concluir a História daquela dimensão.<br>
+Clique em JOGAR de novo para confirmar.<br>
+Durante a partida<br>
+Clique em CONSTRUIR, à direita, para abrir a loja de heróis.<br>
+Clique num espaço livre ao lado do caminho para posicionar.<br>
+Clique numa torre já posicionada para ver alcance, status e melhorias. Atalhos: T melhora, V vende.<br>
+A primeira onda só começa quando você clicar em INICIAR. Use esse tempo para montar a defesa.<br>
 P pausa.
