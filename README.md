@@ -50,4 +50,5 @@ Clique em CONSTRUIR, à direita, para abrir a loja de heróis.<br>
 Clique num espaço livre ao lado do caminho para posicionar.<br>
 Clique numa torre já posicionada para ver alcance, status e melhorias. Atalhos: T melhora, V vende.<br>
 A primeira onda só começa quando você clicar em INICIAR. Use esse tempo para montar a defesa.<br>
-P pausa.
+P pausa.<br>
+https://forms.gle/7zZArRxS4iiAwMfS7
